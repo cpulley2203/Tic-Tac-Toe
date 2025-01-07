@@ -1,4 +1,4 @@
-This is the classic Tic Tac Toe Game!
+                                  This is the classic Tic Tac Toe Game!
 
 This game was built using C#, .NET, and WPF. Allowing me to improve on classes, methods, properties and animations.
 
